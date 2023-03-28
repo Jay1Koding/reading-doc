@@ -2,9 +2,9 @@
 
 - [ ] sweet-alert으로 popup ➡️
 
-  - [ ] 컴포넌트화 ➡️
+  - [x] 컴포넌트화 ➡️
   - [ ] 네이밍 수정
-  - [ ] font, button, color 수정 ➡️
+  - [x] font, button, color 수정 ➡️
 
 - [ ] product list, detail, my product
 
@@ -23,6 +23,10 @@
 - [ ] id#profileimg 위치 찾아서 width height 고정적으로 줘야할 듯
 - [ ] User Profile / Edit
   - [ ] 파일을 업로드 했을 때 그 prop을 받아 img src에 들어가게
+- [ ] password : 특문/ 대문자 min 8로 regex, valid 수정
+- [ ] 상품 다운로드, 목록 조회 query 52, 53
+- [ ] sign up은 redirect('/')로 처리
+- [ ]
 
 ---
 
