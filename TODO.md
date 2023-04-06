@@ -1,18 +1,30 @@
 # Doing :)
 
-- [ ] sweet-alert으로 popup ➡️
+➡️
+✅
+❌
 
-  - [x] 컴포넌트화 ➡️
-  - [ ] 네이밍 수정
-  - [x] font, button, color 수정 ➡️
-
-- [ ] product list, detail, my product
+- [ ] detail, my product ➡️
+  - [x] product list
+    - title, username, price 외 다 날림
+    - navigate로 detail로 보내고 그 이후 모든 처리는 detail page에서 구현
+    - pr_id 는 8, 9
+- [ ] eslint, pritter config 체크
+  - 간단한 설정 후 project에 적용, 이후 커밋한 내용 Pull 하면 됨
+- [ ] sign up은 redirect('/')로 처리 ➡️
+  - [ ] confirm button에선 html 처리가 안되 location.href로 처리해야함
 
 ---
 
 # TODO
 
-- Sign Form Valid, Auth 다시 확인할 것
+- [ ] 상용화된 User 관련 서비스 벤치마크
+- [ ] react cli 확인
+- [ ] source tree 사용법 갱신
+
+- [ ] 고수석님 코드 확인하기
+- [ ] docker 사용법
+- [ ] 비밀번호 찾기 프로세스 확인
 
 - [ ] 뒷단 project 받아서 확인 `<port>`까지
 
@@ -25,8 +37,6 @@
   - [ ] 파일을 업로드 했을 때 그 prop을 받아 img src에 들어가게
 - [ ] password : 특문/ 대문자 min 8로 regex, valid 수정
 - [ ] 상품 다운로드, 목록 조회 query 52, 53
-- [ ] sign up은 redirect('/')로 처리
-- [ ]
 
 ---
 
@@ -53,3 +63,9 @@
   - [x] 수정 : regex에 충족할 경우 email valid check과 submit이 가능하도록 수정 / 단 submit은 form valid를 통과해야 함
 - [x] handle axios post status
   - 단순하게 try catch로 handling을 해버림...
+- [x] sweet-alert으로 popup
+  - [x] 컴포넌트화
+  - [x] 네이밍 수정
+  - [x] font, button, color 수정
+- [x] React Router로 :id를 받아 Author, Item 처리 / Styling
+- [x] Sign Form Valid, Auth 다시 확인할 것 // 대문, 특문
