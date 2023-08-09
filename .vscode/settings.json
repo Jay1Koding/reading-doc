@@ -18,6 +18,6 @@
     "titleBar.inactiveBackground": "#8d416799",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#8d4167",
-  "editor.fontSize": 24
+  "peacock.color": "#8d4167"
+  // "editor.fontSize": 24
 }
