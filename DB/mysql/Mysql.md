@@ -495,3 +495,35 @@ SELECT COALESCE(NULL, 'Not Null', 'Value'); -- 결과: 'Not Null'
 SELECT COALESCE(NULL, NULL, NULL, 'Value'); -- 결과: 'Value'
 SELECT COALESCE(NULL, NULL, NULL); -- 결과: NULL
 ```
+
+---
+
+# DATA TYPES
+
+[여기부터](https://www.w3schools.com/mysql/mysql_datatypes.asp)
+
+<!-- database는 data type 부터 보고  -->
+
+---
+
+# DATABASE
+
+## CREATE DATABASE
+
+`CREATE DATABASE db_name`
+
+## DROP DATABASE
+
+`DROP DATABASE db_name`
+
+## CREATE TABLE
+
+```sql
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+```

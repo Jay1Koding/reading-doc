@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "be29a84fce363c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2aeeddb7fc43a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a42f903c2def23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/mysql/Mysql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731b3a12b9b82c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "1598ffefceea7294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c56b1f39a2e0783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2606e20950b7c1de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45fdc7b37b369edf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0629a0186e60764b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c6906e81a7e69e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d95e404d598fd759",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DB/mysql/Mysql.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "846952b9bdcfa41a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DB/mysql/Mysql.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4afbdfb287c2304e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "981d1eee6dbf1f63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DB/mysql/Mysql.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e0a42f903c2def23",
+  "lastOpenFiles": [
+    "CORS/CORS.md",
+    "DB/mysql/Mysql.md",
+    "2023-12-14.md"
+  ]
+}
