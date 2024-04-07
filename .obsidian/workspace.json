@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/mysql/Mysql.md",
+                "file": "CORS/CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DB/mysql/Mysql.md",
+                "file": "CORS/CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DB/mysql/Mysql.md",
+                "file": "CORS/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DB/mysql/Mysql.md"
+                "file": "CORS/CORS.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "e0a42f903c2def23",
   "lastOpenFiles": [
-    "CORS/CORS.md",
     "DB/mysql/Mysql.md",
+    "library/tanstack/table/1.guide.md",
+    "library/tanstack/table/2.api.md",
+    "TODO.md",
+    "CORS/CORS.md",
     "2023-12-14.md"
   ]
 }
